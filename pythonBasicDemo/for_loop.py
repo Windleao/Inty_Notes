@@ -11,3 +11,5 @@ for letter in 'inty':
     print("each letter is: " + letter)
 
 '''这是github的demo'''
+
+'''今天是2018-10-11，欢迎来到这个有趣的编程世界'''
