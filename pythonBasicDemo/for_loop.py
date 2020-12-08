@@ -16,5 +16,6 @@ for letter in 'inty':
 
 '''循环语句'''
 
-'''1208Demo'''
+'''1208Demo,this is brautiful day'''
+
 
